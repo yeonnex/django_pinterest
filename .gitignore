@@ -86,3 +86,6 @@ media/
 staticfiles/
 
 gis_2ban.pem
+
+gis_2ban_test.pub
+gis_2ban_test
