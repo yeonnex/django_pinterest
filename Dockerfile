@@ -2,7 +2,7 @@ FROM python:3.9.0
 
 WORKDIR /home/
 
-RUN echo 'awehe'
+RUN echo 'awdfsfeehe'
 
 RUN git clone https://github.com/yeonnex/django_pinterest.git
 
