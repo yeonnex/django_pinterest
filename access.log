@@ -1,0 +1,6 @@
+
+10.0.0.2 - - [29/Sep/2021:01:52:59 +0000] "GET /favicon.ico HTTP/1.1" 404 179 "http://35.197.94.31/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+
+10.0.0.2 - - [29/Sep/2021:02:07:18 +0000] "GET / HTTP/1.1" 200 4044 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+
+10.0.0.2 - - [29/Sep/2021:02:10:22 +0000] "POST /boaform/admin/formLogin HTTP/1.1" 404 179 "http://35.197.94.31:80/admin/login.asp" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
